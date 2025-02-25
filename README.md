@@ -7,3 +7,5 @@ This **Employee Trend Dashboard** provides insights into employee distribution, 
 - **Educational Qualification Breakdown**: Displays employees' highest education levels.
 - **Gender Distribution**: Visual representation of male vs. female employees.
 - **Department-wise Employee Distribution**: Highlights employee counts across different departments.
+## 🖥️ Dashboard Preview
+![Employee Trend Dashboard](./Dashboard.png)
