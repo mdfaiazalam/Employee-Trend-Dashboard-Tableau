@@ -8,4 +8,4 @@ This **Employee Trend Dashboard** provides insights into employee distribution, 
 - **Gender Distribution**: Visual representation of male vs. female employees.
 - **Department-wise Employee Distribution**: Highlights employee counts across different departments.
 ## 🖥️ Dashboard Preview
-![Employee Trend Dashboard](./Dashboard.png)
+![Employee Trend Dashboard](https://github.com/mdfaiazalam/Employee-Trend-Dashboard-Tableau/blob/main/Employee%20Trend%20Dashboard.png)
