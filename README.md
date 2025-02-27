@@ -4,7 +4,7 @@ This **Employee Trend Dashboard** provides insights into employee distribution, 
 ## 🔹 Features
 - **Active Employee Count vs Total Count**: Shows the number of active employees compared to the total employee count. 
 - **Business Travel Analysis**: Categorizes employees based on travel frequency.
-- **Educational Qualification Breakdown**: Displays employees' highest education levels.
+- **Educational Qualification Breakdown**: Displays employees' highest education levels. 
 - **Gender Distribution**: Visual representation of male vs. female employees.
 - **Department-wise Employee Distribution**: Highlights employee counts across different departments.
 ## 🖥️ Dashboard Preview
